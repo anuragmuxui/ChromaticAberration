@@ -1,2 +1,2 @@
 # ChromaticAberration
-Chromatic Aberration - text effect
+Chromatic Aberration - text effect made with CSS
